@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+					<!-- ToDo List Use Editable Property for Edit function -->
+
+<html>
+<head>
+	<title>ToDo List App</title>
+	<h1>TODO List</h1>
+</head>
+<body>
+<p contenteditable="true" id="editId"></p>
+<form name="form">
+     Task ID    :<input type="number" name="taskid" id="id" required></br>
+	Enter Task :<input type="text" name="tasks" id="t" required/></br>
+	Start Date :<input type="date" name="startDate" id="sd" /></br>
+	End Date   :<input type="date" name="endDate" id="ed" /></br>
+	  Status   :<select name="stats" id="sts">
+	  	<option value="PENDING">PENDING</option>
+	  	<option value="IN PROGRESS">IN PROGRESS</option>
+	  </select>
+	  </br>
+	      <input type="button" value="submit" onclick="showdata()"></input> 
+	      
+</form>
+			<div id="demo"></div>
+<script type="text/javascript">
+
+	var taskid,html;
+	var tasks = startDate = endDate = stats = "";
+	var task= [];
+		
+
+	function showdata(){
+		console.log('inside showdata');
+		taskid = document.getElementById("id").value;
+		tasks = document.getElementById("t").value;
+		startDate = document.getElementById("sd").value;
+		endDate = document.getElementById("ed").value;
+		stats = document.getElementById("sts").value;
+
+		var formValidate = checkForm();
+
+		if(formValidate){
+			
+		 var taskdata = {
+		
+        'taskid'    : taskid,
+		'tasks'    : tasks,
+		'startDate': startDate ,
+		'endDate'  : endDate,
+		'stats'    : stats
+		};
+		
+		task.push(taskdata);
+		showTask();
+  		clearFunction();
+  	
+		}
+	}
+
+	function checkForm(){
+		var flag = true;
+		var d1 = new Date();
+		var d2 = new Date(startDate);
+		var d3 = new Date(endDate);
+		console.log(d1);
+
+
+			if(tasks == ""){
+				alert("Please Enter task :");
+				document.form.tasks.focus();
+				flag = false;
+			}
+			else if (startDate == "") {
+				alert("Enter Start date");
+				document.form.startDate.focus();
+				flag = false;
+			}
+
+			else if(d1.getTime() > d2.getTime()){
+			alert("Please enter valid Start Date");
+			document.form.startDate.focus();
+			flag = false;
+			}
+			
+			else if (endDate == "") {
+				alert("Enter end date");
+				document.form.endDate.focus();
+				flag = false;
+			}
+
+		    else if (d1.getTime() > d3.getTime() ){
+			alert("Sorry, the END date you specify is already gone... Thats mean your task is completed...")
+			document.form.endDate.focus();
+			flag = false;
+			}
+			
+			else if(startDate > endDate){
+			alert("Ooops!!! Your end date is set before start date...! Can you please correct it?");
+			document.form.endDate.focus();
+			flag = false;
+			}
+			else if (stats =="") {
+				alert("Please enter Status");
+				document.form.stats.focus();
+				flag = false;
+			}
+			else {
+				flag = true;
+			}
+			return flag;
+		}
+
+
+	function clearFunction(){
+		tasks = document.getElementById("t").value = "";
+		startDate = document.getElementById("sd").value = "";
+		endDate = document.getElementById("ed").value = "";
+
+	    }
+
+
+	   
+	 function showTask(){
+	    		var html= '<table class="table table-bordered" id="table">' +
+  						  '<thead>'+	
+  						  '<tr>'+
+  						  '<th>Task ID</th>'+
+  						  '<th>Task</th>'+
+  						  '<th>Start Date</th>'+
+  						  '<th>End Date</th>'+
+  						  '<th>Current Status</th>'+
+  						  '</tr>'+
+  						  '</thead>'
+
+	  			for(var i in task){
+	  					html+="<tr>";
+	  					html+="<td>"+task[i].taskid+"</td>";
+	        			html+="<td>"+task[i].tasks+"</td>";
+	       				html+="<td>"+task[i].startDate+"</td>";
+	       				html+="<td>"+task[i].endDate+"</td>";
+	       				html+="<td class='status'>"+task[i].stats+"</td>";
+	       			html+='<td><input type="button" value="Edit" onclick="editData('+i+')"></input></td>';
+	       			html+='<td><input type="button" value="Delete" onclick="deleteData('+i+')"></input></td>';
+	        			html+="</tr>"; 
+
+	  				}
+
+	  			html+="</table>";
+	  			document.getElementById('demo').innerHTML = html;
+	  			
+	    }
+
+
+     function editData(btn){
+
+                  var i = btn;
+
+                   document.getElementById("editId").contentEditable;
+                
+                  var edithtml = 'Enter Task ID :</br><input type="number" name="taskid" id="idi"></br>'+
+                  'Enter Task :</br><input type="text" name="tasks" id="ti" required/></br>'+
+                  'Enter Start Date :</br><input type="date" name="startDate" id="sdi" /></br>'+
+                  'Enter EndDate :</br><input type="date" name="endDate" id="edi" /></br>'+
+                   'Select Status :</br><select name="stats" id="stsi">'+
+	  	           '<option value="PENDING">PENDING</option>'+
+	  	           '<option value="IN PROGRESS">IN PROGRESS</option>'+
+	               ' </select></br>' +
+					'<input type="button" value="Save" onclick="saveData('+i+')"></input>'
+
+					document.getElementById("editId").innerHTML = edithtml;
+
+					console.log("Okay working",task[i].taskid );
+
+     }
+
+	 function saveData(editI){
+
+	    	 var i = editI;
+	    	 console.log("Index of i in saveData",i);
+			 taskid = document.getElementById("idi").value;
+			 tasks = document.getElementById("ti").value;
+			 startDate = document.getElementById("sdi").value;
+			 endDate = document.getElementById("edi").value;
+			 stats = document.getElementById("stsi").value;
+
+					    var taskdata1 = {
+					
+				        'taskid'    : taskid,
+						'tasks'    : tasks,
+						'startDate': startDate ,
+						'endDate'  : endDate,
+						'stats'    : stats
+						};
+						clearFunction();
+						task[i] = taskdata1;
+						showTask();
+						// document.getElementById('editId').parentNode.removeChild(document.getElementById('editId'));
+			  document.getElementById('editId').innerHTML="";
+	  }
+
+	     function deleteData(btn){
+	     	var i = btn;
+	    	
+	    			confirm("Do you want to delete data?");
+	    			task.splice(btn,1);
+
+		    showTask();	
+	    }
+
+
+</script>
+
+</body>
+</html>

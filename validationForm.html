@@ -1,0 +1,75 @@
+<html>
+<head>
+<script type="text/javascript">
+
+function validation()
+{
+	var a = document.form.name.value;
+if(a=="")
+{
+alert("Please Enter Your Name");
+document.form.name.focus();
+return false;
+}
+if(!isNaN(a))
+{
+alert("Please Enter Only Characters");
+document.form.name.select();
+return false;
+}
+
+var b = document.form.phone.value;
+if(b=="")
+{
+alert("please Enter the Contact Number");
+document.form.phone.focus();
+return false;
+}
+if(isNaN(b))
+{
+
+alert("Enter the valid Mobile Number(Like : 9566137117)");
+document.form.phone.focus();
+return false;
+}
+if(b.length != 10) {
+    window.alert("Phone number must be 10 digits.");
+    document.form.phone.focus();
+    return false;
+}
+
+  var gender = form.querySelectorAll('input[name="gender"]:checked');
+        if (!gender.length) {
+            alert('You must select male or female');
+            return false;
+        }
+
+}
+
+</script>
+
+</head>
+<body>
+<form name="form" method="post" onsubmit="return validation()">
+<tr>
+<td> Your Name:</td>
+<td><input type="text" name="name" required></td>
+</tr></br>
+<tr>
+<td> Mobile No:</td>
+<td><input type="text" name="phone" required></td>
+</tr>
+<tr></br>
+Email :       <input type="email" name="email" required></br>
+<td></td></br>
+ <input name="gender" type="radio" value="m" /> Male
+    <input name="gender" type="radio" value="f" /> Female</br>
+
+
+</tr>
+
+
+<td><input type="submit" name="sub" value="Submit"></td>
+</form>
+</body>
+</html>

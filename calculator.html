@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Calculator</p>
+<input type = "text" id = "a"></input>
+ <input type="text" id="b"></br>
+<button onclick="add()">Addition</button>
+<button onclick="sub()">Substraction</button>
+<button onclick="mul()">Multiplication</button>
+<button onclick="div()">Division</button>
+
+
+<p id="demo"></p>
+
+<script>
+function add() {
+    var x = parseInt(document.getElementById("a").value);
+    var y = parseInt(document.getElementById("b").value);
+    var z = x + y;
+    document.getElementById("demo").innerHTML= z;
+}
+function sub() {
+    var x = parseInt(document.getElementById("a").value);
+    var y = parseInt(document.getElementById("b").value);
+    var z = x - y;
+    document.getElementById("demo").innerHTML= z;
+}
+function mul() {
+    var x = parseInt(document.getElementById("a").value);
+    var y = parseInt(document.getElementById("b").value);
+    var z = x * y;
+    document.getElementById("demo").innerHTML= z;
+}
+function div() {
+    var x = parseInt(document.getElementById("a").value);
+    var y = parseInt(document.getElementById("b").value);
+    var z = x / y;
+    document.getElementById("demo").innerHTML= z;
+}
+
+</script>
+
+</body>
+</html>
