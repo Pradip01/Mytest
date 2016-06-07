@@ -1,0 +1,65 @@
+{% extends "layouts/default.html" %}
+
+{% block content %}
+<section>
+    <h1>{{entry.title}}</h1>
+    
+			<ul>
+			<li><b>Title:</b> {{entry.title}}</li>
+			<li><b>URL:</b> {{entry.url}}</li>
+			<li><b>Header</b>:<br>
+				<ul>
+				<li><b>Logo Image</b>:<br>
+					<ul>
+					<li>
+						<b>logo(url):</b> <a href='{{getAssetUrl(entry.header.logo_image.logo)}}'>{{entry.header.logo_image.logo.filename}}</a>
+					</li>
+					</ul>
+				</li>
+				<li><b>Menu</b>:<br>
+					<ul>
+					<li><b>Menu:</b>
+						{% set entry_header_menu_menu = entry.header.menu.menu %}
+						<ul>
+						{% for _entry_header_menu_menu in entry_header_menu_menu -%}
+							<li><a href='{{ _entry_header_menu_menu.href }}'>{{ _entry_header_menu_menu.title }}</a></li>
+						{%- endfor %}
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			<li><b>section</b>:<br>
+				<ul>
+				<li><b>section title:</b> {{entry.section.section_title}}</li>
+				<li><b>section description:</b> {{entry.section.section_description}}</li>
+				</ul>
+			</li>
+			<li><b>footer</b>:<br>
+				<ul>
+				<li><b>logo image</b>:<br>
+					<ul>
+					<li>
+						<b>Image(url):</b> <a href='{{getAssetUrl(entry.footer.logo_image.image)}}'>{{entry.footer.logo_image.image.filename}}</a>
+					</li>
+					</ul>
+				</li>
+				<li><b>social icon</b>:<br>
+					<ul>
+					<li><b>social icon:</b>
+						{% set entry_footer_social_icon_social_icon = entry.footer.social_icon.social_icon %}
+						<ul>
+						{% for _entry_footer_social_icon_social_icon in entry_footer_social_icon_social_icon -%}
+								<li><a href='{{getAssetUrl(_entry_footer_social_icon_social_icon)}}'>{{_entry_footer_social_icon_social_icon.filename}}</a></li>
+						{%- endfor %}
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			</ul>
+    <p style="color: #555; font-size: 14px">Note: Template automatically generated at "/home/pradeep/Mytest/first-website/themes/basic/templates/pages/lavender/index.html"</p>
+</section>
+{% endblock %}

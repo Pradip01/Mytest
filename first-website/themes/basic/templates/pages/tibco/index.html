@@ -1,0 +1,83 @@
+{% extends "layouts/default.html" %}
+
+{% block content %}
+<section>
+    <h1>{{entry.title}}</h1>
+    
+	<div class="wrapper">
+
+		{% for entry_banner in entry.banner %}
+			<div class="banner">
+
+						<div class="banner-content">
+							{{entry_banner.content}}
+
+                                <div class="banner-image">
+
+                                    <img src="{{getAssetUrl(entry_banner.image)}}">
+                                </div>
+                        </div>
+			</div>
+		{% endfor %}
+
+			<div class="logo">
+				<a href='/test'><img src="{{getAssetUrl(entry.logo.image)}}" alt=" /Image"></a>
+			</div>
+
+			<div class="section">
+					<div class="left-content">
+						{{entry.section_description.left_content.content}}
+					</div>
+
+					<div class="right-content">
+
+							<div class="image-content">
+										<div class="rci-image">
+											<img src="{{entry.section_description.right_content.imagecontent.image.filename.url}}" alt="/Image">
+										</div>
+
+										<div class="rci-content">
+											{{entry.section_description.right_content.imagecontent.content}}
+										</div>
+							</div>
+
+							<div class="cta">
+								{{entry.section_description.right_content.call_to_action.open_to_new}}
+							</div>
+
+					</div>
+			</div>
+
+			<div class="explore-more">
+				
+				{% for _entry_explore_more_explore in entry.explore_more.explore %}
+					<div class="explore">
+							<div class="explore-image">
+								<img src="{{_entry_explore_more_explore.content_and_image}}" alt="/Image">
+							</div>
+
+							<div class="explore-content">
+								{{_entry_explore_more_explore.content_and_image}}
+							</div>
+					</div>
+				{% endfor %}
+			</div>
+
+			<div class="footer">
+					<div class="footer-content">
+						{{entry.footer.footer_content}}
+						<div class="footer-image">
+							{{entry.footer.footer_content}}
+						</div>
+					</div>
+
+					<div class="footer-logo">
+						<a href='/logo'><img src="{{entry.footer.logo.filename.url}}" alt="/Image"></a>
+					</div>
+			</div>
+
+	</div>
+
+    <p style="color: #555; font-size: 14px">Note: Template automatically generated at "/home/pradeep/Mytest/first-website/themes/basic/templates/pages/tibco/index.html"</p>
+</section>
+{% endblock %}
