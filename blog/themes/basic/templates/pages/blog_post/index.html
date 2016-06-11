@@ -1,0 +1,30 @@
+{% extends "layouts/default.html" %}
+
+{% block content %}
+<section>
+    <h1>{{entry.title}}</h1>
+    
+			<ul>
+			<li><b>Title:</b> {{entry.title}}</li>
+			<li><b>URL:</b> {{entry.url}}</li>
+			<li><b>section:</b>
+				{% set entry_section = entry.section %}
+				<ul>
+				{% for _entry_section in entry_section -%}
+					<li><b>{{loop.index}}</b>:<br>
+						<ul>
+						<li><b>Title:</b> {{_entry_section.title}}</li>
+						<li><b>Name and Date:</b> {{_entry_section.name_and_date}}</li>
+						<li>
+							<b>Image(url):</b> <a href='{{getAssetUrl(_entry_section.image)}}'>{{_entry_section.image.filename}}</a>
+						</li>
+						<li><b>content:</b> {{_entry_section.content}}</li>
+						</ul>
+					</li>
+				{%- endfor %}
+				</ul>
+			</li>
+			</ul>
+    <p style="color: #555; font-size: 14px">Note: Template automatically generated at "/home/pradip/Mytest/blog/themes/basic/templates/pages/blog_post/index.html"</p>
+</section>
+{% endblock %}

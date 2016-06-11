@@ -1,0 +1,79 @@
+.header{
+	padding: 10px;
+	margin: 10px;
+	height: auto;
+	width: auto;
+	overflow: auto;
+	background-color: linen;
+}
+.header-left{
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+	float: left;
+	height: 20px;
+	width: 500px;
+	border: solid 2px navy;
+
+}
+.header-right{
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+	float: right;
+	height: 20px;
+	width: 500px;
+	border: solid 2px navy;
+}
+.section{
+	padding: 10px;
+	margin: 10px;
+	overflow: auto;
+	height: auto;
+	width: auto;
+	background-color: purple;
+}
+.section-left{
+	padding: 10px;
+	margin: 10px;
+	width: 12%;
+	height: 600px;
+	float: left;
+	border: solid 2px linen;
+	background-color: navy;
+}
+.section-right{
+	padding: 10px;
+	margin: 10px;
+	width: 74%;
+	height: 600px;
+	float: right;
+	border: solid 2px linen;
+	background-color: navy;
+}
+.banner{
+	padding: 80px;
+	margin: 10px;
+	background-color: purple;
+	overflow: auto;
+	height: auto;
+	width: auto;
+}
+.box1,.box2,.box3{
+	padding: 10px;
+	margin: 10px;
+	float: left;
+	width: 26%;
+	height: auto;
+	border: solid 2px navy;
+	background-color: linen;
+}
+.footer{
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	height: auto;
+	width: auto;
+	background-color: red;
+	text-decoration-color: purple;
+}

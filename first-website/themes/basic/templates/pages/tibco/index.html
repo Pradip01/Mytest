@@ -3,6 +3,7 @@
 {% block content %}
 <section>
     <h1>{{entry.title}}</h1>
+<<<<<<< HEAD
 
     <h3>This is plugin filter : {{ "Message" | shorten }}</h3>
 	<div class="wrapper">
@@ -78,5 +79,87 @@
 			</div>
 
 	</div>
+=======
+    
+			<ul>
+			<li><b>Title:</b> {{entry.title}}</li>
+			<li><b>URL:</b> {{entry.url}}</li>
+			<li><b>banner:</b>
+				{% set entry_banner = entry.banner %}
+				<ul>
+				{% for _entry_banner in entry_banner -%}
+					<li><b>{{loop.index}}</b>:<br>
+						<ul>
+						<li><b>content:</b> {{_entry_banner.content}}</li>
+						<li>
+							<b>image(url):</b> <a href='{{getAssetUrl(_entry_banner.image)}}'>{{_entry_banner.image.filename}}</a>
+						</li>
+						</ul>
+					</li>
+				{%- endfor %}
+				</ul>
+			</li>
+			<li><b>logo</b>:<br>
+				<ul>
+				<li>
+					<b>image(url):</b> <a href='{{getAssetUrl(entry.logo.image)}}'>{{entry.logo.image.filename}}</a>
+				</li>
+				<li><b>link:</b> {{entry.logo.link}}</li>
+				</ul>
+			</li>
+			<li><b>section description</b>:<br>
+				<ul>
+				<li><b>left content</b>:<br>
+					<ul>
+					<li><b>content:</b> {{entry.section_description.left_content.content}}</li>
+					</ul>
+				</li>
+				<li><b>right content</b>:<br>
+					<ul>
+					<li><b>imagecontent</b>:<br>
+						<ul>
+						<li>
+							<b>image(url):</b> <a href='{{getAssetUrl(entry.section_description.right_content.imagecontent.image)}}'>{{entry.section_description.right_content.imagecontent.image.filename}}</a>
+						</li>
+						<li><b>content:</b> {{entry.section_description.right_content.imagecontent.content}}</li>
+						</ul>
+					</li>
+					<li><b>call to action</b>:<br>
+						<ul>
+						<li><b>open to new:</b> {{entry.section_description.right_content.call_to_action.open_to_new}}</li>
+						</ul>
+					</li>
+					</ul>
+				</li>
+				</ul>
+			</li>
+			<li><b>explore more</b>:<br>
+				<ul>
+				<li><b>explore:</b>
+					{% set entry_explore_more_explore = entry.explore_more.explore %}
+					<ul>
+					{% for _entry_explore_more_explore in entry_explore_more_explore -%}
+						<li><b>{{loop.index}}</b>:<br>
+							<ul>
+							<li><b>content and image:</b> {{_entry_explore_more_explore.content_and_image}}</li>
+							</ul>
+						</li>
+					{%- endfor %}
+					</ul>
+				</li>
+				</ul>
+			</li>
+			<li><b>footer</b>:<br>
+				<ul>
+				<li><b>footer content:</b> {{entry.footer.footer_content}}</li>
+				<li>
+					<b>logo(url):</b> <a href='{{getAssetUrl(entry.footer.logo)}}'>{{entry.footer.logo.filename}}</a>
+				</li>
+				<li><b>link:</b> {{entry.footer.link}}</li>
+				</ul>
+			</li>
+			</ul>
+    <p style="color: #555; font-size: 14px">Note: Template automatically generated at "/home/pradip/Mytest/first-website/themes/basic/templates/pages/tibco/index.html"</p>
+>>>>>>> e5348672fe11ffcdda5f3b3ab4a8fb1839e3ca7c
 </section>
 {% endblock %}
