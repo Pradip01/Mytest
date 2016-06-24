@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Ajax call</h2>
+
+<button type="button" onclick="loadDoc()">Request data</button>
+
+<p id="demo"></p>
+
+
+<script>
+    function loadDoc() {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function() {
+            if (xhttp.readyState == 4 && xhttp.status == 200) {
+                document.getElementById("demo").innerHTML = xhttp.responseText;
+//                document.writeln("Status : "+ xhttp.status);
+//                document.writeln("StatusText : "+ xhttp.statusText);
+
+            }
+        };
+        xhttp.open("GET", "index.text", true);
+        xhttp.send();
+    }
+</script>
+
+</body>
+</html>

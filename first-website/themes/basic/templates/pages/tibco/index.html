@@ -3,6 +3,83 @@
 {% block content %}
 <section>
     <h1>{{entry.title}}</h1>
+<<<<<<< HEAD
+
+    <h3>This is plugin filter : {{ "Message" | shorten }}</h3>
+	<div class="wrapper">
+			<div class="banner">
+
+					<div class="banner-content">
+						<h1>{{entry.banner.content}}</h1>
+					</div>
+
+					<div class="banner-image">
+						<img src="{{getAssetUrl(entry.banner.image)}}" alt="/Image">
+					</div>
+
+			</div>
+
+			<div class="logo">
+				<a href='/test'><img src="{{getAssetUrl(entry.logo.image)}}" alt=" /Image"></a>
+			</div>
+
+			<div class="section">
+					<div class="left-content">
+						{{entry.section_description.left_content.content}}
+					</div>
+
+					<div class="right-content">
+
+							<div class="image-content">
+										<div class="rci-image">
+											<img style="width: 33%" src="{{getAssetUrl(entry.section_description.right_content.imagecontent.image)}}" alt="/Image">
+										</div>
+
+										<div class="rci-content">
+											{{entry.section_description.right_content.imagecontent.content}}
+										</div>
+							</div>
+
+							<div class="cta">
+								<!--{{entry.section_description.right_content.call_to_action.open_to_new}}-->
+								<button class="button">Watch Now</button>
+							</div>
+
+					</div>
+			</div>
+
+			<div class="explore-more">
+
+				{% for _entry_explore_more_explore in entry.explore_more.explore %}
+					<div class="explore">
+							<div class="explore-image">
+								<!--<img src="{{_entry_explore_more_explore.content_and_image}}" alt="/Image">-->
+							</div>
+
+							<div class="explore-content">
+								<p id="list">
+								{{_entry_explore_more_explore.content_and_image}}
+								</p>
+							</div>
+					</div>
+				{% endfor %}
+			</div>
+
+			<div class="footer">
+					<div class="footer-content">
+						{{entry.footer.footer_content}}
+						<div class="footer-image">
+							<!--{{entry.footer.footer_content}}-->
+						</div>
+					</div>
+
+					<div class="footer-logo">
+						<a href='/logo'><img src="{{getAssetUrl(entry.footer.logo)}}" alt="/Image"></a>
+					</div>
+			</div>
+
+	</div>
+=======
     
 			<ul>
 			<li><b>Title:</b> {{entry.title}}</li>
@@ -83,5 +160,6 @@
 			</li>
 			</ul>
     <p style="color: #555; font-size: 14px">Note: Template automatically generated at "/home/pradip/Mytest/first-website/themes/basic/templates/pages/tibco/index.html"</p>
+>>>>>>> e5348672fe11ffcdda5f3b3ab4a8fb1839e3ca7c
 </section>
 {% endblock %}
