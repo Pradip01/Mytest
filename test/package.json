@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "dependencies": {
+    "contentstack": "^1.0.3",
+    "contentstack-express": "^1.0.3"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}

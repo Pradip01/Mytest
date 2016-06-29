@@ -1,0 +1,470 @@
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T11:39:04.943Z"}
+{"level":"info","message":"Connection ID: 0.7049313597381115","timestamp":"2016-06-24T11:39:13.255Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-24T11:39:13.899Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-24T11:39:22.252Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T11:54:12.075Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T11:55:15.828Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T11:56:27.220Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T12:03:22.446Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T12:04:44.584Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T12:08:59.344Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T12:13:18.334Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T12:32:03.677Z"}
+{"level":"info","message":"Connection ID: 0.9763825878035277","timestamp":"2016-06-24T12:54:28.075Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-24T12:54:28.769Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-24T12:54:31.687Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T12:54:36.385Z"}
+{"level":"info","message":"Connection ID: 0.01779243117198348","timestamp":"2016-06-24T12:54:43.565Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-24T12:54:44.261Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-24T12:54:47.021Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T13:12:26.419Z"}
+{"level":"info","message":"Connection ID: 0.9645421097520739","timestamp":"2016-06-24T13:12:33.548Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-24T13:12:34.221Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-24T13:12:37.029Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T13:13:59.347Z"}
+{"level":"info","message":"Connection ID: 0.4151702777016908","timestamp":"2016-06-24T13:14:07.714Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-24T13:14:08.361Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-24T13:14:12.567Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T13:33:05.467Z"}
+{"level":"info","message":"Connection ID: 0.5897152291145176","timestamp":"2016-06-24T13:33:10.810Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-24T13:33:12.813Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-24T13:33:13.252Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-24T13:33:15.957Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T13:34:38.821Z"}
+{"level":"info","message":"Connection ID: 0.8163934219628572","timestamp":"2016-06-24T13:34:46.707Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-24T13:34:47.411Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-24T13:34:50.006Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T13:36:20.202Z"}
+{"level":"info","message":"Connection ID: 0.9847647265996784","timestamp":"2016-06-24T13:36:26.933Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-24T13:36:27.612Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-24T13:36:30.551Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T13:47:20.110Z"}
+{"level":"info","message":"Connection ID: 0.29975632671266794","timestamp":"2016-06-24T13:47:24.526Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-24T13:47:26.528Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-24T13:47:28.175Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-24T13:47:31.336Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T13:49:14.786Z"}
+{"level":"info","message":"Connection ID: 0.9455301568377763","timestamp":"2016-06-24T13:49:20.135Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-24T13:49:22.136Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-24T13:49:22.601Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-24T13:49:25.184Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-24T13:49:57.589Z"}
+{"level":"info","message":"Connection ID: 0.19954905798658729","timestamp":"2016-06-24T13:50:03.068Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-24T13:50:03.727Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-24T13:50:06.318Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-27T04:13:12.004Z"}
+{"level":"info","message":"Connection ID: 0.4209505745675415","timestamp":"2016-06-27T04:13:18.947Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-27T04:13:19.652Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-27T04:13:22.884Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-27T04:41:04.383Z"}
+{"level":"info","message":"Connection ID: 0.11456113122403622","timestamp":"2016-06-27T04:41:10.501Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-27T04:41:11.136Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-27T04:41:14.130Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-27T04:43:29.123Z"}
+{"level":"info","message":"Connection ID: 0.5790960351005197","timestamp":"2016-06-27T04:43:37.850Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-27T04:43:38.542Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-27T04:43:41.552Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-27T04:45:41.845Z"}
+{"level":"info","message":"Connection ID: 0.09560184413567185","timestamp":"2016-06-27T04:45:46.161Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-27T04:45:48.162Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-27T04:45:48.416Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-27T04:45:50.931Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T05:18:33.697Z"}
+{"level":"info","message":"Connection ID: 0.18136296095326543","timestamp":"2016-06-29T05:18:37.675Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T05:18:39.676Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T05:18:39.917Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T05:18:42.289Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T05:20:42.708Z"}
+{"level":"info","message":"Connection ID: 0.9665102085564286","timestamp":"2016-06-29T05:20:51.692Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T05:20:52.296Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T05:20:54.669Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T05:23:24.789Z"}
+{"level":"info","message":"Connection ID: 0.8759933225810528","timestamp":"2016-06-29T05:23:32.751Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T05:23:34.695Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T05:23:37.078Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T05:33:49.287Z"}
+{"level":"info","message":"Connection ID: 0.06308731087483466","timestamp":"2016-06-29T05:33:53.891Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T05:33:55.866Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T05:33:58.573Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T05:39:13.039Z"}
+{"level":"info","message":"Connection ID: 0.25365373864769936","timestamp":"2016-06-29T05:39:16.959Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T05:39:18.956Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T05:39:21.470Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T05:46:08.118Z"}
+{"level":"info","message":"Connection ID: 0.292346058646217","timestamp":"2016-06-29T05:46:12.163Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T05:46:14.129Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T05:46:16.660Z"}
+{"level":"error","message":"Connection failed. Attempting to reconnect.transport close","timestamp":"2016-06-29T05:46:26.925Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T05:46:27.716Z"}
+{"level":"warn","message":"Reconnected.","timestamp":"2016-06-29T05:46:30.993Z"}
+{"level":"info","message":"Connection ID: 0.292346058646217","timestamp":"2016-06-29T05:46:30.993Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T05:46:32.995Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T05:46:34.997Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T05:46:35.580Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T05:46:35.906Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T05:48:31.229Z"}
+{"level":"info","message":"Connection ID: 0.7300187561195344","timestamp":"2016-06-29T05:48:37.180Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T05:48:37.790Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T05:48:40.317Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T05:56:40.733Z"}
+{"level":"info","message":"Connection ID: 0.3189205171074718","timestamp":"2016-06-29T05:56:44.728Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T05:56:46.707Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T05:56:49.326Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T05:59:44.840Z"}
+{"level":"info","message":"Connection ID: 0.17669917573221028","timestamp":"2016-06-29T05:59:50.875Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T05:59:51.495Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T05:59:53.962Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T06:08:28.212Z"}
+{"level":"info","message":"Connection ID: 0.7529035727493465","timestamp":"2016-06-29T06:08:34.172Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T06:08:34.788Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T06:08:37.260Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T06:15:18.102Z"}
+{"level":"info","message":"Connection ID: 0.6837852380704135","timestamp":"2016-06-29T06:15:24.088Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T06:15:24.677Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T06:15:27.411Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T06:17:36.716Z"}
+{"level":"info","message":"Connection ID: 0.9568702799733728","timestamp":"2016-06-29T06:17:42.658Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T06:17:43.274Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T06:17:45.779Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T06:27:43.748Z"}
+{"level":"info","message":"Connection ID: 0.5950835580006242","timestamp":"2016-06-29T06:27:47.786Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T06:27:49.787Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T06:27:50.051Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T06:27:52.633Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T06:28:30.117Z"}
+{"level":"info","message":"Connection ID: 0.03853535815142095","timestamp":"2016-06-29T06:28:36.052Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T06:28:36.654Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T06:28:38.987Z"}
+{"level":"info","message":"'Request received' for Publish :: {\"object\":{\"updated_at\":\"2016-06-29T06:29:22.056Z\",\"created_at\":\"2016-06-29T06:29:22.056Z\",\"entry\":{\"version\":1,\"title\":\"Pradip\",\"locale\":\"en-us\",\"entry_uid\":\"blt1307c1b248987f79\"},\"environment\":[\"blt30b42099f56c79f7\"],\"locale\":[\"en-us\"],\"action\":\"publish\",\"approval\":false,\"approved\":true,\"rejected\":false,\"type\":\"entry\",\"form\":{\"form_uid\":\"form\",\"title\":\"form\"},\"_metadata\":{\"publish_details\":[{\"message\":\"\",\"status\":-1,\"name\":\"default\"}],\"user\":\"bltafb9a2f130f952adb0886a5e\",\"roles\":[]},\"tags\":[],\"updated_by\":\"bltafb9a2f130f952adb0886a5e\",\"created_by\":\"bltafb9a2f130f952adb0886a5e\",\"app_user_object_uid\":\"system\",\"published\":true,\"uid\":\"blt3ffdd74668136e0d\",\"_version\":1,\"ACL\":{\"can\":[]}}}","timestamp":"2016-06-29T06:29:24.173Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":1,\"message\":\"In progress : Starting the Publishing process.\"}}","timestamp":"2016-06-29T06:29:24.175Z"}
+{"level":"info","message":"'In progress' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T06:29:26.467Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":2,\"message\":\"Publish : Entry has been published successfully.\"}}","timestamp":"2016-06-29T06:29:28.292Z"}
+{"level":"info","message":"'Publish' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T06:29:30.114Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T07:05:54.243Z"}
+{"level":"info","message":"Connection ID: 0.08936189394444227","timestamp":"2016-06-29T07:06:00.199Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T07:06:00.816Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T07:06:05.011Z"}
+{"level":"info","message":"'Request received' for Publish :: {\"object\":{\"updated_at\":\"2016-06-29T07:31:45.502Z\",\"created_at\":\"2016-06-29T07:31:45.502Z\",\"entry\":{\"version\":1,\"title\":\"www\",\"locale\":\"en-us\",\"entry_uid\":\"blt58fbf60ea3c4ca3f\"},\"environment\":[\"blt30b42099f56c79f7\"],\"locale\":[\"en-us\"],\"action\":\"publish\",\"approval\":false,\"approved\":true,\"rejected\":false,\"type\":\"entry\",\"form\":{\"form_uid\":\"form\",\"title\":\"form\"},\"_metadata\":{\"publish_details\":[{\"message\":\"\",\"status\":-1,\"name\":\"default\"}],\"user\":\"bltafb9a2f130f952adb0886a5e\",\"roles\":[]},\"tags\":[],\"updated_by\":\"bltafb9a2f130f952adb0886a5e\",\"created_by\":\"bltafb9a2f130f952adb0886a5e\",\"app_user_object_uid\":\"system\",\"published\":true,\"uid\":\"bltfbe9e8b57cc80a5d\",\"_version\":1,\"ACL\":{\"can\":[]}}}","timestamp":"2016-06-29T07:31:47.652Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":1,\"message\":\"In progress : Starting the Publishing process.\"}}","timestamp":"2016-06-29T07:31:47.654Z"}
+{"level":"info","message":"'In progress' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T07:31:50.166Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":2,\"message\":\"Publish : Entry has been published successfully.\"}}","timestamp":"2016-06-29T07:31:52.009Z"}
+{"level":"info","message":"'Publish' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T07:31:53.773Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T07:33:25.094Z"}
+{"level":"info","message":"Connection ID: 0.6203837576322258","timestamp":"2016-06-29T07:33:29.233Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T07:33:31.211Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T07:33:36.728Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T07:46:07.352Z"}
+{"level":"info","message":"Connection ID: 0.52492416347377","timestamp":"2016-06-29T07:46:11.470Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T07:46:13.464Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T07:46:16.635Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T08:50:25.995Z"}
+{"level":"info","message":"Connection ID: 0.9076844328083098","timestamp":"2016-06-29T08:50:30.003Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T08:50:32.004Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T08:50:32.008Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T08:50:35.195Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T08:54:53.749Z"}
+{"level":"info","message":"Connection ID: 0.20528794080018997","timestamp":"2016-06-29T08:54:59.685Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T08:55:00.262Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T08:55:02.999Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T09:05:51.044Z"}
+{"level":"info","message":"Connection ID: 0.8303675903007388","timestamp":"2016-06-29T09:05:55.080Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T09:05:57.020Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T09:05:59.514Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T09:25:53.192Z"}
+{"level":"info","message":"Connection ID: 0.1524581485427916","timestamp":"2016-06-29T09:25:57.294Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T09:25:59.296Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T09:25:59.299Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T09:26:04.773Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T09:39:46.688Z"}
+{"level":"info","message":"Connection ID: 0.984568536747247","timestamp":"2016-06-29T09:39:50.830Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T09:39:52.783Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T09:39:55.418Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T09:50:46.166Z"}
+{"level":"info","message":"Connection ID: 0.9922330209519714","timestamp":"2016-06-29T09:50:50.119Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T09:50:52.120Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T09:50:52.348Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T09:50:54.703Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T09:54:20.802Z"}
+{"level":"info","message":"Connection ID: 0.6744118200149387","timestamp":"2016-06-29T09:54:27.157Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T09:54:27.766Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T09:54:30.247Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T09:59:03.791Z"}
+{"level":"info","message":"Connection ID: 0.17261843639425933","timestamp":"2016-06-29T09:59:09.664Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T09:59:10.267Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T09:59:13.028Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T10:13:11.860Z"}
+{"level":"info","message":"Connection ID: 0.3391420724801719","timestamp":"2016-06-29T10:13:15.963Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T10:13:17.901Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T10:13:20.361Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T10:20:07.442Z"}
+{"level":"info","message":"Connection ID: 0.9337184929754585","timestamp":"2016-06-29T10:20:14.186Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T10:20:14.799Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T10:20:17.275Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T10:31:44.014Z"}
+{"level":"info","message":"Connection ID: 0.8398769034538418","timestamp":"2016-06-29T10:31:50.072Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T10:31:50.687Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T10:31:53.425Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T10:33:50.745Z"}
+{"level":"info","message":"Connection ID: 0.6669691246934235","timestamp":"2016-06-29T10:33:54.755Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T10:33:56.757Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T10:33:57.019Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T10:33:59.427Z"}
+{"level":"error","message":"Connection failed. Attempting to reconnect.transport close","timestamp":"2016-06-29T11:12:30.243Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T11:12:30.936Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T11:12:30.946Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T11:12:32.291Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T11:12:32.299Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T11:12:34.983Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T11:12:34.989Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T11:12:39.992Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T11:12:39.999Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T11:12:45.002Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T11:12:45.008Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T11:12:50.012Z"}
+{"level":"warn","message":"Reconnected.","timestamp":"2016-06-29T11:12:52.008Z"}
+{"level":"info","message":"Connection ID: 0.6669691246934235","timestamp":"2016-06-29T11:12:52.008Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T11:12:54.009Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T11:12:55.921Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T11:12:56.560Z"}
+{"level":"info","message":"Attempting connection to the Built.io Contentstack server...","timestamp":"2016-06-29T11:59:20.273Z"}
+{"level":"info","message":"Connection ID: 0.3870694413781166","timestamp":"2016-06-29T11:59:26.198Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T11:59:26.786Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T11:59:29.115Z"}
+{"level":"info","message":"'Request received' for Publish :: {\"object\":{\"updated_at\":\"2016-06-29T12:18:33.143Z\",\"created_at\":\"2016-06-29T12:18:33.143Z\",\"entry\":{\"version\":1,\"title\":\"Rishi\",\"locale\":\"en-us\",\"entry_uid\":\"blt6bc46c9ff670a406\"},\"environment\":[\"blt30b42099f56c79f7\"],\"locale\":[\"en-us\"],\"action\":\"publish\",\"approval\":false,\"approved\":true,\"rejected\":false,\"type\":\"entry\",\"form\":{\"form_uid\":\"form\",\"title\":\"form\"},\"_metadata\":{\"publish_details\":[{\"message\":\"\",\"status\":-1,\"name\":\"default\"}],\"user\":\"bltafb9a2f130f952adb0886a5e\",\"roles\":[]},\"tags\":[],\"updated_by\":\"bltafb9a2f130f952adb0886a5e\",\"created_by\":\"bltafb9a2f130f952adb0886a5e\",\"app_user_object_uid\":\"system\",\"published\":true,\"uid\":\"blte689b74b4b72030f\",\"_version\":1,\"ACL\":{\"can\":[]}}}","timestamp":"2016-06-29T12:18:35.709Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":1,\"message\":\"In progress : Starting the Publishing process.\"}}","timestamp":"2016-06-29T12:18:35.713Z"}
+{"level":"info","message":"'In progress' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T12:18:38.076Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":2,\"message\":\"Publish : Entry has been published successfully.\"}}","timestamp":"2016-06-29T12:18:39.867Z"}
+{"level":"info","message":"'Publish' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T12:18:41.679Z"}
+{"level":"info","message":"'Request received' for Publish :: {\"object\":{\"updated_at\":\"2016-06-29T12:18:42.618Z\",\"created_at\":\"2016-06-29T12:18:42.618Z\",\"entry\":{\"version\":1,\"title\":\"aaa\",\"locale\":\"en-us\",\"entry_uid\":\"blta80e5eb7f2bbd190\"},\"environment\":[\"blt30b42099f56c79f7\"],\"locale\":[\"en-us\"],\"action\":\"publish\",\"approval\":false,\"approved\":true,\"rejected\":false,\"type\":\"entry\",\"form\":{\"form_uid\":\"form\",\"title\":\"form\"},\"_metadata\":{\"publish_details\":[{\"message\":\"\",\"status\":-1,\"name\":\"default\"}],\"user\":\"bltafb9a2f130f952adb0886a5e\",\"roles\":[]},\"tags\":[],\"updated_by\":\"bltafb9a2f130f952adb0886a5e\",\"created_by\":\"bltafb9a2f130f952adb0886a5e\",\"app_user_object_uid\":\"system\",\"published\":true,\"uid\":\"blt75ca0b4038418c61\",\"_version\":1,\"ACL\":{\"can\":[]}}}","timestamp":"2016-06-29T12:18:44.951Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":1,\"message\":\"In progress : Starting the Publishing process.\"}}","timestamp":"2016-06-29T12:18:44.952Z"}
+{"level":"info","message":"'In progress' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T12:18:46.722Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":2,\"message\":\"Publish : Entry has been published successfully.\"}}","timestamp":"2016-06-29T12:18:48.560Z"}
+{"level":"info","message":"'Publish' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T12:18:50.312Z"}
+{"level":"info","message":"'Request received' for Publish :: {\"object\":{\"updated_at\":\"2016-06-29T12:18:57.141Z\",\"created_at\":\"2016-06-29T12:18:57.141Z\",\"entry\":{\"version\":1,\"title\":\"Rahul\",\"locale\":\"en-us\",\"entry_uid\":\"blteaa3affab899937e\"},\"environment\":[\"blt30b42099f56c79f7\"],\"locale\":[\"en-us\"],\"action\":\"publish\",\"approval\":false,\"approved\":true,\"rejected\":false,\"type\":\"entry\",\"form\":{\"form_uid\":\"form\",\"title\":\"form\"},\"_metadata\":{\"publish_details\":[{\"message\":\"\",\"status\":-1,\"name\":\"default\"}],\"user\":\"bltafb9a2f130f952adb0886a5e\",\"roles\":[]},\"tags\":[],\"updated_by\":\"bltafb9a2f130f952adb0886a5e\",\"created_by\":\"bltafb9a2f130f952adb0886a5e\",\"app_user_object_uid\":\"system\",\"published\":true,\"uid\":\"blt927fcf47f50452a1\",\"_version\":1,\"ACL\":{\"can\":[]}}}","timestamp":"2016-06-29T12:18:59.641Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":1,\"message\":\"In progress : Starting the Publishing process.\"}}","timestamp":"2016-06-29T12:18:59.642Z"}
+{"level":"info","message":"'In progress' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T12:19:01.436Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":2,\"message\":\"Publish : Entry has been published successfully.\"}}","timestamp":"2016-06-29T12:19:03.418Z"}
+{"level":"info","message":"'Publish' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T12:19:05.203Z"}
+{"level":"info","message":"'Request received' for Publish :: {\"object\":{\"updated_at\":\"2016-06-29T12:19:06.691Z\",\"created_at\":\"2016-06-29T12:19:06.691Z\",\"entry\":{\"version\":1,\"title\":\"Rahul\",\"locale\":\"en-us\",\"entry_uid\":\"blteaa3affab899937e\"},\"environment\":[\"blt30b42099f56c79f7\"],\"locale\":[\"en-us\"],\"action\":\"publish\",\"approval\":false,\"approved\":true,\"rejected\":false,\"type\":\"entry\",\"form\":{\"form_uid\":\"form\",\"title\":\"form\"},\"_metadata\":{\"publish_details\":[{\"message\":\"\",\"status\":-1,\"name\":\"default\"}],\"user\":\"bltafb9a2f130f952adb0886a5e\",\"roles\":[]},\"tags\":[],\"updated_by\":\"bltafb9a2f130f952adb0886a5e\",\"created_by\":\"bltafb9a2f130f952adb0886a5e\",\"app_user_object_uid\":\"system\",\"published\":true,\"uid\":\"blt4ff560bbcaf14ef0\",\"_version\":1,\"ACL\":{\"can\":[]}}}","timestamp":"2016-06-29T12:19:08.989Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":1,\"message\":\"In progress : Starting the Publishing process.\"}}","timestamp":"2016-06-29T12:19:08.990Z"}
+{"level":"info","message":"'In progress' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T12:19:10.793Z"}
+{"level":"info","message":"{\"entry\":{\"name\":\"default\",\"status\":2,\"message\":\"Publish : Entry has been published successfully.\"}}","timestamp":"2016-06-29T12:19:12.555Z"}
+{"level":"info","message":"'Publish' status has been saved on Built.io Contentstack.","timestamp":"2016-06-29T12:19:14.349Z"}
+{"level":"error","message":"Connection failed. Attempting to reconnect.ping timeout","timestamp":"2016-06-29T12:42:55.974Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:42:57.053Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:43:12.084Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:43:13.465Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:43:28.498Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:43:30.841Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:43:45.875Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:43:50.879Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:44:05.907Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:44:10.912Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:44:25.939Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:44:30.943Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:44:45.971Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:44:50.974Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:45:06.003Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:45:11.008Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:45:26.036Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:45:31.038Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:45:46.068Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:45:51.070Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:46:06.101Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:46:11.102Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:46:26.133Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:46:31.135Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:46:46.165Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:46:51.170Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:47:06.199Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:47:11.204Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:47:26.244Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:47:31.250Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:47:46.278Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:47:51.279Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:48:06.310Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:48:11.314Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:48:26.343Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:48:31.347Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:48:46.376Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:48:51.381Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:49:06.407Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:49:11.411Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:49:26.439Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:49:31.444Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:49:46.632Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:49:51.636Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:50:06.664Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:50:11.667Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:50:26.697Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:50:31.702Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:50:46.857Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:50:51.858Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:51:06.888Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:51:11.893Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:51:26.939Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:51:31.943Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:51:46.985Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:51:51.986Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:52:07.018Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:52:12.023Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:52:27.059Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:52:32.054Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:52:47.082Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:52:52.086Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:53:07.115Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:53:12.120Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:53:27.165Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:53:32.170Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:53:47.211Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:53:52.214Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:54:07.244Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:54:12.244Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:54:27.276Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:54:32.278Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:54:47.308Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:54:52.310Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:55:07.340Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:55:12.344Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:55:27.373Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:55:32.378Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:55:47.532Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:55:52.535Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:56:07.565Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:56:12.567Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:56:27.600Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:56:32.601Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:56:47.629Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:56:52.632Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:57:07.662Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:57:12.664Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:57:27.822Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:57:32.823Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:57:47.855Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:57:52.858Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:58:07.885Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:58:12.890Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:58:27.919Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:58:32.924Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:58:47.951Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:58:52.956Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:59:07.983Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:59:12.988Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:59:28.015Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:59:33.019Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T12:59:48.048Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T12:59:53.054Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:00:08.080Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:00:13.081Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:00:28.113Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:00:33.118Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:00:48.273Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:00:53.278Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:01:08.305Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:01:13.309Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:01:28.338Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:01:33.341Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:01:48.371Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:01:53.378Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:02:08.403Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:02:13.408Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:02:28.434Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:02:33.436Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:02:48.467Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:02:53.469Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:03:08.499Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:03:13.501Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:03:28.531Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:03:33.536Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:03:48.563Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:03:53.569Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:04:08.595Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:04:13.596Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:04:28.628Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:04:33.631Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:04:48.661Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:04:53.666Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:05:08.693Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:05:13.698Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:05:28.725Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:05:33.730Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:05:48.757Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:05:53.757Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:06:08.789Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:06:13.793Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:06:28.821Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:06:33.826Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:06:48.854Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:06:53.856Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:07:08.886Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:07:13.892Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:07:28.919Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:07:33.924Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:07:48.951Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:07:53.956Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:08:08.983Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:08:13.986Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:08:29.015Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:08:34.017Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:08:49.047Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:08:54.052Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:09:09.080Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:09:14.081Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:09:29.113Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:09:34.117Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:09:49.146Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:09:54.150Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:10:09.177Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:10:14.182Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:10:29.209Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:10:34.214Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:10:49.242Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:10:54.243Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:11:09.273Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:11:14.278Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:11:29.306Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:11:34.309Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:11:49.338Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:11:54.340Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:12:09.371Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:12:14.374Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:12:29.403Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:12:34.408Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:12:49.436Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:12:54.441Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:13:09.469Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:13:14.472Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:13:29.499Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:13:34.499Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:13:49.532Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:13:54.535Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:14:09.564Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:14:14.568Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:14:29.596Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:14:34.599Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:14:49.629Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:14:54.633Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:15:09.662Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:15:14.667Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:15:29.694Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:15:34.697Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:15:49.725Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:15:54.730Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:16:09.758Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:16:14.763Z"}
+{"level":"error","message":"Reconnect error: \"xhr poll error\"","timestamp":"2016-06-29T13:16:29.790Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:16:34.791Z"}
+{"level":"warn","message":"Reconnected.","timestamp":"2016-06-29T13:16:36.712Z"}
+{"level":"info","message":"Connection ID: 0.3870694413781166","timestamp":"2016-06-29T13:16:36.713Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T13:16:38.713Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T13:16:40.714Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T13:16:41.161Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T13:16:41.490Z"}
+{"level":"error","message":"Connection failed. Attempting to reconnect.transport close","timestamp":"2016-06-29T13:35:02.258Z"}
+{"level":"info","message":"Reconnecting.","timestamp":"2016-06-29T13:35:03.140Z"}
+{"level":"warn","message":"Reconnected.","timestamp":"2016-06-29T13:35:05.092Z"}
+{"level":"info","message":"Connection ID: 0.3870694413781166","timestamp":"2016-06-29T13:35:05.093Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T13:35:07.094Z"}
+{"level":"warn","message":"Resending authentication call.","timestamp":"2016-06-29T13:35:09.094Z"}
+{"level":"info","message":"Connection authorized","timestamp":"2016-06-29T13:35:09.825Z"}
+{"level":"info","message":"Connection established successfully!","timestamp":"2016-06-29T13:35:10.409Z"}
